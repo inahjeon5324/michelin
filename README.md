@@ -27,10 +27,6 @@
 
 ## 술집
 
-### 논현역
-- [박경자식당](https://store.naver.com/restaurants/detail?id=39698674) :beer:
-> #전통주 #배추전 #존맛탱
-
 ### 신사역
 - [미켈러바](https://store.naver.com/restaurants/detail?id=36877874) :beer:
 > #수제맥주펍 #종류다양 #왕비쌈
@@ -48,6 +44,23 @@
 
 ## 카페
 
+## 회사 근처 맛집 - 논현역
+### 밥집
+- [세타이수루](https://store.naver.com/restaurants/detail?entry=plt&id=37754520)
+> #규카츠 #워터에이징 #화로 #존맛탱
+> :+1:
+
+- [어랑](https://store.naver.com/restaurants/detail?id=475744961)
+> #생선구이 #정성이담긴밥 #묵은지고등어 #고갈비
+> :+1:
+
+### 카페
+- [바라는 것들의 실상](https://store.naver.com/restaurants/detail?id=36772019)
+> #조용한카페 #분위기좋음 #리모트
+
+### 술집
+- [박경자식당](https://store.naver.com/restaurants/detail?id=39698674) :beer:
+> #전통주 #배추전 #존맛탱
 
 ## 우리 동네 맛집 - 봉천역
 ### 밥집
