@@ -56,6 +56,10 @@
 > #생선구이 #정성이담긴밥 #묵은지고등어 #고갈비
 > :+1:
 
+- [부엉이식당](https://store.naver.com/restaurants/detail?entry=plt&id=1824038108)
+> #카레 #고기가득 #생맥주 #존맛탱
+> :+1:
+
 ### 카페
 - [바라는 것들의 실상](https://store.naver.com/restaurants/detail?id=36772019)
 > #조용한카페 #분위기좋음 #리모트
