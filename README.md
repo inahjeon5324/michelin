@@ -114,6 +114,15 @@
 - [조솊](https://store.naver.com/restaurants/detail?id=1345297479)
 > #파스타 #스테이크 #왕새우 #제주위트에일
 
+- [우리동네국수집](https://store.naver.com/restaurants/detail?id=38745684)
+> #고기국수 #저렴 #양많이
+
+- [우된장](https://store.naver.com/restaurants/detail?id=361292335)
+> ???!?
+
+- [야베](https://blog.naver.com/deel19/220852325425)
+> ???
+
 ### 카페
 - [엘가커피](https://store.naver.com/restaurants/detail?id=37818385)
 > #핸드드립 #이쁜커피잔 #빵 #분위기좋은2층카페
@@ -122,5 +131,7 @@
 > #꽃냉장고 #여기저기꽃 #드라이플라워 #플라워카페
 
 ### 술집
-- .... 
+- [세컨스페이스](https://store.naver.com/restaurants/detail?id=1220083351)
+> ???????@!!!!
+
 
