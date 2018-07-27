@@ -130,8 +130,9 @@
 - [피움](https://store.naver.com/restaurants/detail?id=1088837534)
 > #꽃냉장고 #여기저기꽃 #드라이플라워 #플라워카페
 
-- [세컨스페이스](https://store.naver.com/restaurants/detail?id=1220083351)
-> ???????@!!!!
-
 ### 술집
+
+- [세컨스페이스](https://store.naver.com/restaurants/detail?id=1220083351) :beer:
+> #카페 #리모트하기좋은펍 #맥주 #와인 #위스키 #사색이필요할때
+
 
