@@ -37,6 +37,9 @@
 - [우와](https://store.naver.com/restaurants/detail?id=1653280910) :+1::+1:
 > #야끼소바 #오꼬노미야끼 #철판 #존맛탱
 
+- [미미면가](https://store.naver.com/restaurants/detail?entry=plt&id=21693586)
+> ????
+
 ### 삼성중앙역
 - [비야게레로](https://store.naver.com/restaurants/detail?entry=plt&id=36528809) :+1::+1::+1:
 > #멕시코요리 #타코 #수요미식회 #존맛탱
