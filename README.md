@@ -48,6 +48,10 @@
 - [오복수산](https://store.naver.com/restaurants/detail?id=37728675) :+1:
 > #카이센동 #사케동 #사케우니이쿠라동 #싱싱 #존맛탱
 
+### 이태원역
+- [mishmash](https://store.naver.com/restaurants/detail?id=37929317) :+1::+1:
+> #퓨전한식 #장아찌튀김 #포키포크 #존맛
+
 ## 술집
 
 ### 강남역
