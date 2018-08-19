@@ -15,6 +15,10 @@
 
 ## 맛집
 
+### 고속터미널역
+- [마루심](https://store.naver.com/restaurants/detail?id=20206990)
+> ???? #히쯔마부시
+
 ### 강남역
 - [봉피양(서초점)](https://store.naver.com/restaurants/detail?id=12973914) :+1:
 > #평양냉면 #진한고기육수 #존맛탱
@@ -44,9 +48,12 @@
 - [비야게레로](https://store.naver.com/restaurants/detail?entry=plt&id=36528809) :+1::+1::+1:
 > #멕시코요리 #타코 #수요미식회 #존맛탱
 
-### 홍대입구역
+### 홍대입구역, 합정역
 - [오복수산](https://store.naver.com/restaurants/detail?id=37728675) :+1:
 > #카이센동 #사케동 #사케우니이쿠라동 #싱싱 #존맛탱
+
+- [서울동](https://store.naver.com/restaurants/detail?id=1154051555)
+> ??? #우니동
 
 ### 이태원역
 - [mishmash](https://store.naver.com/restaurants/detail?id=37929317) :+1::+1:
