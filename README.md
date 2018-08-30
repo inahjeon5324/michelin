@@ -75,10 +75,6 @@
 - [한추](https://store.naver.com/restaurants/detail?id=13358436)
 > ???!?
 
-### 서초역
-- [365베버리지라운지](https://store.naver.com/restaurants/detail?entry=plt&id=36952380) :beer::beer::beer:
-> #티칵테일 #티목테일 #칵테일 #바 #존맛탱
-
 ### 홍대입구역
 - [산울림1992](https://store.naver.com/restaurants/detail?id=13123910) :beer::beer::beer:
 > #전통주 #종류다양 #존맛탱
@@ -117,8 +113,14 @@
 > #조용한카페 #분위기좋음 #리모트
 
 ### 술집
+- [스탠서울](https://store.naver.com/restaurants/detail?id=1061866711) :beer::beer:
+> #크래프트맥주 #언필터드라거 #사장님맥덕
+
 - [박경자식당](https://store.naver.com/restaurants/detail?id=39698674) :beer:
 > #전통주 #배추전 #존맛탱
+
+- [플레이볼](https://store.naver.com/restaurants/detail?id=37028314) :beer::beer:
+> #기네스 #하이네켄 #월드챔피언
 
 - [김숙수가게](https://store.naver.com/restaurants/detail?id=38676654)
 > ???!?
