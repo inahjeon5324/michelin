@@ -50,9 +50,8 @@
 
 ### 삼성중앙역
 - [비야게레로](https://store.naver.com/restaurants/detail?entry=plt&id=36528809) :+1::+1::+1:
-    > #멕시코요리 #타코 #수요미식회 #존맛탱
-    
-    > 선정 이유: 진짜 멕시코에서 팔 것만 같은 리얼 현지 타코 맛!
+> #멕시코요리 #타코 #수요미식회 #존맛탱
+> 선정 이유: 진짜 멕시코에서 팔 것만 같은 리얼 현지 타코 맛!
 
 ### 홍대입구역, 합정역
 - [오복수산](https://store.naver.com/restaurants/detail?id=37728675) :+1:
@@ -67,9 +66,8 @@
 
 ### 을지로4가역
 - [우래옥](https://store.naver.com/restaurants/detail?entry=plt&id=11679381) :+1::+1::+1:
-    > #평양냉면 #메밀향듬뿍 #존맛
-    
-    > 선정 이유: 최고의 평양 냉면 맛집.
+> #평양냉면 #메밀향듬뿍 #존맛
+> 선정 이유: 최고의 평양 냉면 맛집.
 
 ## 술집
 
@@ -93,13 +91,12 @@
 
 ### 홍대입구역
 - [산울림1992](https://store.naver.com/restaurants/detail?id=13123910) :beer::beer::beer:
-    > #전통주 #종류다양 #존맛탱
-    
-    > 선정 이유: 술 메뉴만 10페이지가 넘는 다양한 전통주 전문 술집
+> #전통주 #종류다양 #존맛탱
+> 선정 이유: 술 메뉴만 10페이지가 넘는 다양한 전통주 전문 술집
 
 ### 종로3가역
 - [서울집시](https://store.naver.com/restaurants/detail?entry=plt&id=1311007811) :beer::beer:
-    > #크래프트맥주 #브루어리 #존맛탱
+> #크래프트맥주 #브루어리 #존맛탱
 
 ### 서울숲역
 - [어메이징브루잉컴퍼니](https://store.naver.com/restaurants/detail?entry=plt&id=37558917) :beer::beer:
