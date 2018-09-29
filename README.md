@@ -9,7 +9,7 @@
 
 - :+1::+1:: 멀리 찾아 갈 만한 훌륭한 맛집
 
-- :+1::+1::+1:: 따로 일정을 잡아 특별히 찾아갈 가치가 있는 훌륭한 맛집
+- :+1::+1::+1:: 다른 곳과 차별화 되는 그 곳만의 특별함이 있는 훌륭한 맛집
 
 (:+1:=:coffee:=:beer:)
 
@@ -44,9 +44,15 @@
 - [미미면가](https://store.naver.com/restaurants/detail?entry=plt&id=21693586)
 > ????
 
+### 청담역
+- [익스퀴진](https://store.naver.com/restaurants/detail?id=38781115) :+1::+1:
+> #파인다이닝 #한식 #존맛탱
+
 ### 삼성중앙역
 - [비야게레로](https://store.naver.com/restaurants/detail?entry=plt&id=36528809) :+1::+1::+1:
-> #멕시코요리 #타코 #수요미식회 #존맛탱
+    > #멕시코요리 #타코 #수요미식회 #존맛탱
+    
+    > 선정 이유: 진짜 멕시코에서 팔 것만 같은 리얼 현지 타코 맛!
 
 ### 홍대입구역, 합정역
 - [오복수산](https://store.naver.com/restaurants/detail?id=37728675) :+1:
@@ -58,6 +64,12 @@
 ### 이태원역
 - [mishmash](https://store.naver.com/restaurants/detail?id=37929317) :+1::+1:
 > #퓨전한식 #장아찌튀김 #포키포크 #존맛
+
+### 을지로4가역
+- [우래옥](https://store.naver.com/restaurants/detail?entry=plt&id=11679381) :+1::+1::+1:
+    > #평양냉면 #메밀향듬뿍 #존맛
+    
+    > 선정 이유: 최고의 평양 냉면 맛집.
 
 ## 술집
 
@@ -75,9 +87,19 @@
 - [한추](https://store.naver.com/restaurants/detail?id=13358436)
 > ???!?
 
+### 녹사평역
+- [성광대도](https://store.naver.com/restaurants/detail?id=38654057) :beer::beer:
+> #홍콩느낌 #하이볼 #볶음밥 #분위기멋
+
 ### 홍대입구역
 - [산울림1992](https://store.naver.com/restaurants/detail?id=13123910) :beer::beer::beer:
-> #전통주 #종류다양 #존맛탱
+    > #전통주 #종류다양 #존맛탱
+    
+    > 선정 이유: 술 메뉴만 10페이지가 넘는 다양한 전통주 전문 술집
+
+### 종로3가역
+- [서울집시](https://store.naver.com/restaurants/detail?entry=plt&id=1311007811) :beer::beer:
+    > #크래프트맥주 #브루어리 #존맛탱
 
 ### 서울숲역
 - [어메이징브루잉컴퍼니](https://store.naver.com/restaurants/detail?entry=plt&id=37558917) :beer::beer:
@@ -99,8 +121,8 @@
 - [리북집](https://store.naver.com/restaurants/detail?id=13419591)
 > #족발 #파전
 
-- [함지곱창](https://store.naver.com/restaurants/detail?id=11725899)
-> ???!?
+- [함지곱창](https://store.naver.com/restaurants/detail?id=11725899) :+1::+1:
+> #곱창 #김치 #볶음밥 #존맛탱
 
 - [도셰프](https://store.naver.com/restaurants/detail?id=19594193)
 > ??
@@ -137,6 +159,12 @@
 > ???!?
 
 - [야베](https://blog.naver.com/deel19/220852325425)
+> ???
+
+- [토끼네마굿간](https://store.naver.com/restaurants/detail?entry=plt&id=1112384421)
+> ???
+
+- [베라노](https://store.naver.com/restaurants/detail?id=1807809384)
 > ???
 
 ### 카페
