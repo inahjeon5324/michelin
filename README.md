@@ -135,8 +135,10 @@
 > #조용한카페 #분위기좋음 #리모트
 
 ### 술집
-- [스탠서울](https://store.naver.com/restaurants/detail?id=1061866711) :beer::beer:
+- [스탠서울](https://store.naver.com/restaurants/detail?id=1061866711) :beer::beer::beer:
 > #크래프트맥주 #언필터드라거 #사장님맥덕
+
+> 선정 이유: 고퀄 안주와 매우 힙한 맥주 라인업. 최고.
 
 - [박경자식당](https://store.naver.com/restaurants/detail?id=39698674) :beer:
 > #전통주 #배추전 #존맛탱
