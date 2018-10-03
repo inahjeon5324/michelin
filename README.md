@@ -71,6 +71,10 @@
 
 > 선정 이유: 최고의 평양 냉면 맛집.
 
+### 대림역
+- [왕기마라향과](https://store.naver.com/restaurants/detail?entry=plt&id=19935365) :+1:
+> #마라샹궈 #찰진매운맛 #존맛
+
 ## 술집
 
 ### 강남역
