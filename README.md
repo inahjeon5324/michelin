@@ -163,8 +163,8 @@
 - [야베](https://blog.naver.com/deel19/220852325425)
 > ???
 
-- [토끼네마굿간](https://store.naver.com/restaurants/detail?entry=plt&id=1112384421)
-> ???
+- [토끼네마굿간](https://store.naver.com/restaurants/detail?entry=plt&id=1112384421) :+1:
+> #드라이플라워 #엔쵸비파스타 #파스타맛집
 
 - [베라노](https://store.naver.com/restaurants/detail?id=1807809384)
 > ???
